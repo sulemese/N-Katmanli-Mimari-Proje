@@ -1,0 +1,6 @@
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\EntityLayer\obj\Debug\EntityLayer.pdb

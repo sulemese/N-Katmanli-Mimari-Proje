@@ -1,0 +1,11 @@
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\LogicLayer\obj\Debug\LogicLayer.pdb

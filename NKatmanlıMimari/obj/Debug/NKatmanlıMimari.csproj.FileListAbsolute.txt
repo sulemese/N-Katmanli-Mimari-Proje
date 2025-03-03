@@ -1,0 +1,17 @@
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\bin\Debug\NKatmanlıMimari.exe.config
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\bin\Debug\NKatmanlıMimari.exe
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\bin\Debug\NKatmanlıMimari.pdb
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\bin\Debug\EntityLayer.dll
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\bin\Debug\LogicLayer.dll
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\bin\Debug\EntityLayer.pdb
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\bin\Debug\LogicLayer.pdb
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csproj.AssemblyReference.cache
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.Form1.resources
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.Properties.Resources.resources
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csproj.GenerateResource.cache
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csproj.CoreCompileInputs.cache
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csproj.CopyComplete
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.exe
+C:\Users\şule meşe\Desktop\DERSLERİM\C# Programlama Dili\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti Projeler\22-N Katmanlı Mimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.pdb
